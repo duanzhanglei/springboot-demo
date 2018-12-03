@@ -1,8 +1,0 @@
-123
-v1
-dev
-<<<<<<< HEAD
-this is master
-=======
-this is dev2
->>>>>>> dev
